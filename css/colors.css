@@ -1,0 +1,12 @@
+#colordiv {
+display: inline-block;
+width: 100px;
+height: 100px;
+background-color: rgba(0, 0, 255, 0.1);
+}
+
+html {
+background: url(../img/pt.jpg) no-repeat;
+
+}
+
